@@ -1,0 +1,139 @@
+{
+  "coverage": "43.36%",
+  "expectCount": 113,
+  "actualCount": 49,
+  "files": {
+    "src/combined/index.js": {
+      "expectCount": 6,
+      "actualCount": 5,
+      "undocumentLines": [
+        18
+      ]
+    },
+    "src/entity/index.js": {
+      "expectCount": 15,
+      "actualCount": 3,
+      "undocumentLines": [
+        7,
+        110,
+        187,
+        216,
+        278,
+        290,
+        294,
+        299,
+        41,
+        43,
+        44,
+        48
+      ]
+    },
+    "src/gui/guiHelper.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/gui/guiPositions.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/gui/index.js": {
+      "expectCount": 7,
+      "actualCount": 4,
+      "undocumentLines": [
+        42,
+        44,
+        45
+      ]
+    },
+    "src/lib/marchingSquares.js": {
+      "expectCount": 3,
+      "actualCount": 1,
+      "undocumentLines": [
+        61,
+        64
+      ]
+    },
+    "src/lib/OrbitControls.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/model/index.js": {
+      "expectCount": 26,
+      "actualCount": 4,
+      "undocumentLines": [
+        8,
+        13,
+        28,
+        29,
+        31,
+        32,
+        33,
+        35,
+        360,
+        385,
+        511,
+        518,
+        604,
+        861,
+        869,
+        892,
+        928,
+        933,
+        956,
+        71,
+        73,
+        74
+      ]
+    },
+    "src/model/modelConverter.js": {
+      "expectCount": 5,
+      "actualCount": 2,
+      "undocumentLines": [
+        42,
+        77,
+        148
+      ]
+    },
+    "src/renderBase.js": {
+      "expectCount": 27,
+      "actualCount": 22,
+      "undocumentLines": [
+        104,
+        161,
+        360,
+        462,
+        543
+      ]
+    },
+    "src/skin/index.js": {
+      "expectCount": 20,
+      "actualCount": 4,
+      "undocumentLines": [
+        267,
+        342,
+        531,
+        545,
+        562,
+        566,
+        32,
+        33,
+        37,
+        235,
+        239,
+        240,
+        241,
+        251,
+        256,
+        260
+      ]
+    },
+    "src/skin/texturePositions.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    }
+  }
+}
